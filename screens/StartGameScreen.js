@@ -37,7 +37,8 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.26,
         shadowRadius: 6,
         backgroundColor: '#ffffff',
-        elevation: 5
+        elevation: 5,
+        padding: '7%'
     },
     buttonContainer: {
         flexDirection: 'row',
