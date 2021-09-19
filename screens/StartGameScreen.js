@@ -38,7 +38,8 @@ const styles = StyleSheet.create({
         shadowRadius: 6,
         backgroundColor: '#ffffff',
         elevation: 5,
-        padding: '7%'
+        padding: '7%',
+        borderRadius: 20
     },
     buttonContainer: {
         flexDirection: 'row',
