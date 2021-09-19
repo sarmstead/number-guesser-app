@@ -7,7 +7,7 @@ import Header from './components/Header';
 
 export default function App() {
   return (
-    <View>
+    <View style={styles.screen} >
       <Header title="Guess a Number"/>
       <StatusBar style="auto" />
     </View>
@@ -15,5 +15,7 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-
+  screen: {
+    flex: 1
+  }
 });
