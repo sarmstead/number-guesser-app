@@ -27,6 +27,12 @@ const styles = StyleSheet.create({
         fontSize: 20,
         marginVertical: 10
 
+    },
+    buttonContainer: {
+        flexDirection: 'row',
+        width: '100%',
+        justifyContent: 'space-between',
+        paddingHorizontal: 15
     }
 })
 
