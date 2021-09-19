@@ -17,6 +17,10 @@ const styles = StyleSheet.create({
         backgroundColor: '#f7287b',
         alignItems: 'center',
         justifyContent: 'center'
+    },
+    headerTitle: {
+        color: '#000000',
+        fontSize: 18
     }
 })
 
