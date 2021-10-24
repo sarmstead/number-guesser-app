@@ -2,7 +2,7 @@ import React from 'react';
 import { View, StyleSheet, Text, TextInput, Button } from 'react-native';
 
 // Import constants
-import Colors from '../constants/colors.js';
+import Colors from '../constants/colors';
 
 // Import components
 import Card from '../components/Card';
